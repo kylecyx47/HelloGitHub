@@ -63,7 +63,7 @@ HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。**每月 28 号
         <a href="https://apifox.cn/a103hello">
           <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/apifox.png" width="60px"><br>
           <sub>Apifox</sub><br>
-          <sub>比 Postman 更强大</sub>
+          <sub>比 Postman 更强大!</sub>
         </a>
       </th>
     </tr>
